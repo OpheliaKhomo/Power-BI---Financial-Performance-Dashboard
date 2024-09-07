@@ -14,4 +14,4 @@ The visualizations in the dashboard include:
 -Table with the top 3 products per segment based on the units sold
 -Clustered bar chart for Sales by Country
 
-You can download the Power BI file [Drowsly Performance](Drowsly Performance.pbix).
+You can download the Power BI file [Drowsly Performance](Power-BI---Financial-Performance-Dashboard/Drowsly Performance.pbix).
