@@ -13,5 +13,3 @@ The visualizations in the dashboard include:
 -Line Graphs for monthly sales trend tracking
 -Table with the top 3 products per segment based on the units sold
 -Clustered bar chart for Sales by Country
-
-You can download the Power BI file [Drowsly Performance](Power-BI---Financial-Performance-Dashboard/Drowsly Performance.pbix).
